@@ -1,2 +1,3 @@
 # hello-world
-first test creation
+
+This is a fun exercise.  Am I a pro at Git yet?
